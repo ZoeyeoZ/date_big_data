@@ -1,2 +1,3 @@
 ### Contributors:
-Dequan Zhang
+Dequan Zhang,
+Di Huang
